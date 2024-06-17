@@ -18,7 +18,7 @@ const guests = new Map([
   ['ArtemAndNastya', 'Артем и Настя'],
   ['SvetaAndIgor', 'Трифоновы'],
   ['Kamilla', 'Камилла'],
-  ['ArtemAndKatya', 'Артем и Катя'],
+  ['ArtemAndSomeone', 'Артем и Кто-то еще'],
 ]);
 
 const useStyles = createUseStyles((theme: Theme) => ({

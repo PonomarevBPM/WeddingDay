@@ -78,7 +78,7 @@ export function Header() {
         {guestsName === 'SvetaAndIgor' ? (
           <>
             <span className={classes.invite}>
-              HOCHZEITSEINLADUNG
+              ПРИГЛАШЕНИЕ НА СВАДЬБУ
             </span>
             <span className={classes.date}>19.08.2024</span>
           </>
